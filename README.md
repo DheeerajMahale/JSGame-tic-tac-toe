@@ -1,2 +1,2 @@
-# JSGame-tic-tac-toe-
+# JSGame-tic-tac-toe
 A simple JavaScript Game
